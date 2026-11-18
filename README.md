@@ -20,7 +20,7 @@
 
 <br>
 
-[![Download](https://img.shields.io/badge/Download-v1.0.0%20APK%20for%20Android-8E3FD8?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Fuxion-labs/Fuxion-Anime-Android-Public/releases/download/v1.0.0/FuxionAnime-1.0.0.apk)
+[![Download](https://img.shields.io/badge/Download-v1.0.0%20APK%20for%20Android-8E3FD8?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Fuxion-labs/Fuxion-Anime-Android-Public/releases/download/v1.0.0/FuxionAnime-android-v1.0.0-b24-c5e2bb4-release.apk)
 [![Website](https://img.shields.io/badge/Website-fuxion.stream-C77DFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.fuxion.stream)
 [![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jmxarTgCAK)
 [![Telegram](https://img.shields.io/badge/Telegram-FuxionDev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FuxionDev)
