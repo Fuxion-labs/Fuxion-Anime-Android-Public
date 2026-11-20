@@ -4,7 +4,7 @@
 
 <br>
 
-[![Version](https://img.shields.io/badge/version-v1.0.0-8E3FD8?style=for-the-badge)](https://github.com/Fuxion-labs/Fuxion-Anime-Android-Public/releases/tag/v1.0.0)
+[![Version](https://img.shields.io/badge/version-v1.0.1-8E3FD8?style=for-the-badge)](https://github.com/Fuxion-labs/Fuxion-Anime-Android-Public/releases/tag/v1.0.1)
 [![Android](https://img.shields.io/badge/Android-10%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#-system-requirements)
 [![.NET](https://img.shields.io/badge/.NET-10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](#-built-with)
 [![Avalonia UI](https://img.shields.io/badge/Avalonia%20UI-12-8B44AC?style=for-the-badge)](#-built-with)
@@ -20,7 +20,7 @@
 
 <br>
 
-[![Download](https://img.shields.io/badge/Download-v1.0.0%20APK%20for%20Android-8E3FD8?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Fuxion-labs/Fuxion-Anime-Android-Public/releases/download/v1.0.0/FuxionAnime-android-v1.0.0-b24-c5e2bb4-release.apk)
+[![Download](https://img.shields.io/badge/Download-v1.0.1%20APK%20for%20Android-8E3FD8?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Fuxion-labs/Fuxion-Anime-Android-Public/releases/download/v1.0.1/FuxionAnime1.0.1.apk)
 [![Website](https://img.shields.io/badge/Website-fuxion.stream-C77DFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.fuxion.stream)
 [![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jmxarTgCAK)
 [![Telegram](https://img.shields.io/badge/Telegram-FuxionDev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FuxionDev)
@@ -57,7 +57,7 @@
 
 ## 📦 Installation
 
-1. Open the **[Releases](https://github.com/Fuxion-labs/Fuxion-Anime-Android-Public/releases)** page and pick **[v1.0.*](https://github.com/Fuxion-labs/Fuxion-Anime-Android-Public/releases/tag/v1.0.0)**, or press the **Download** button above.
+1. Open the **[Releases](https://github.com/Fuxion-labs/Fuxion-Anime-Android-Public/releases)** page and pick **[v1.0.*](https://github.com/Fuxion-labs/Fuxion-Anime-Android-Public/releases/tag/v1.0.1)**, or press the **Download** button above.
 2. Download **`FuxionAnime-1.0.*.apk`** to your phone.
 3. Open the file. Android will ask you to allow installing apps from your **browser or file manager**: allow it (*Settings → Apps → Special access → Install unknown apps*).
 4. Google Play Protect may show *"App not seen before"* or a similar warning because the app is not distributed through Google Play. Choose **Install anyway**.
@@ -327,7 +327,7 @@ For now the app is distributed only as an APK from this page and from the websit
 
 ## 📦 Установка
 
-1. Откройте страницу **[Releases](https://github.com/Fuxion-labs/Fuxion-Anime-Android-Public/releases)** и выберите **[v1.0.*](https://github.com/Fuxion-labs/Fuxion-Anime-Android-Public/releases/tag/v1.0.0)**, либо нажмите кнопку **Download** выше.
+1. Откройте страницу **[Releases](https://github.com/Fuxion-labs/Fuxion-Anime-Android-Public/releases)** и выберите **[v1.0.*](https://github.com/Fuxion-labs/Fuxion-Anime-Android-Public/releases/tag/v1.0.1)**, либо нажмите кнопку **Download** выше.
 2. Скачайте на телефон файл **`FuxionAnime-1.0.*.apk`**.
 3. Откройте файл. Android попросит разрешить установку приложений из **браузера или файлового менеджера**: разрешите (*Настройки → Приложения → Специальный доступ → Установка неизвестных приложений*).
 4. Google Play Protect может показать предупреждение вроде «Приложение не проверено»: приложение распространяется не через Google Play. Выберите **Всё равно установить**.
